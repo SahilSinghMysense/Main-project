@@ -85,8 +85,7 @@ if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROT
 	$_SERVER['HTTPS'] = 'on';
 }
 
-define( 'WP_HOME', 'http://exa,mpks' );
-define( 'WP_SITEURL', 'http://19sss.68.99.204:40023' );
+
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
